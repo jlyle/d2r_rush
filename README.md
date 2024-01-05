@@ -4,7 +4,7 @@ Quick and Easy guide to rushing a character through content in the Game Diablo 2
 
 Feel Free to leave ??? or !!!  I kind of doubt anything will change, but it if does, I will update it
 
-** TEST COMMIT **
+**TEST COMMIT**
 
 
 **TLDR:** \
