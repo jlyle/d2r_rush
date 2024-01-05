@@ -12,6 +12,8 @@ Act 3: Travanical, Durance of Hate Level 2 (can't get until you have smashed the
 Act 4: River of Flame \
 Act 5: Ancients Way, Worldstone Level 2 (can't get until you have completed the ancients and entered wsk) \
 
+**TEST**
+
 **Steps Overview:** \
 Act1 - Andariel Kill \
 Act2 - collecting parts for the Horadric Staff, Killing the Summoner, Killing Duriel \
