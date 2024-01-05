@@ -4,6 +4,9 @@ Quick and Easy guide to rushing a character through content in the Game Diablo 2
 
 Feel Free to leave ??? or !!!  I kind of doubt anything will change, but it if does, I will update it
 
+** TEST COMMIT **
+
+
 **TLDR:** \
 Get all waypoints; at a min, get the following: \
 Act 1: Catacombs Level 2 \
@@ -12,7 +15,6 @@ Act 3: Travanical, Durance of Hate Level 2 (can't get until you have smashed the
 Act 4: River of Flame \
 Act 5: Ancients Way, Worldstone Level 2 (can't get until you have completed the ancients and entered wsk) \
 
-**TEST**
 
 **Steps Overview:** \
 Act1 - Andariel Kill \
